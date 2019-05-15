@@ -11,9 +11,8 @@
           </div>
         </div>
       </div>
-    </section>
 
-		<section class="ftco-section">
+
       <div class="container">
         <div class="row">
           <div class="col-lg-8 order-lg-last ftco-animate">
@@ -50,8 +49,8 @@
           </div>
 
         </div>
-    </section> <!-- .section -->
 
+ </section>
 
 
 </@c.page>
