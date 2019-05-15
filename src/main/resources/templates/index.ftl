@@ -161,7 +161,7 @@
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
-	              <form action="/foods" class="search-form">
+	              <form method="get" action="/foods" class="search-form">
 	                <div class="form-group">
 	                  <span class="icon icon-search"></span>
 	                  <input type="text" class="form-control" placeholder="Поиск">

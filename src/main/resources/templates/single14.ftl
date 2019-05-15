@@ -1,7 +1,7 @@
 <#import "parts/common.ftl" as c>
 <@c.page>
 
-    <section class="hero-wrap hero-wrap-2"
+    <section class="hero-wrap hero-wrap-2"style="background-image: url('/static/images/uslov.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -11,8 +11,9 @@
           </div>
         </div>
       </div>
+    </section>
 
-
+		<section class="ftco-section">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 order-lg-last ftco-animate">
@@ -49,8 +50,8 @@
           </div>
 
         </div>
+    </section> <!-- .section -->
 
- </section>
 
 
 </@c.page>
